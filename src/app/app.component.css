@@ -1,0 +1,46 @@
+#landing{
+  text-align: center;
+  padding: 30vh 0px;
+  background-image: url('/assets/images/bg.jpg');
+  background-size: cover;
+  background-blend-mode: overlay;
+  background-color: rgba(70, 65, 65, 0.479);
+}
+#landing h1{
+  font-size: 48px;
+  color: white;
+}
+#signup{
+  color: white;
+  padding: 15vh 0;
+  background-image: url('/assets/images/bg.jpg');
+  background-size: cover;
+  background-blend-mode: hard-light;
+  background-color: rgba(0, 0, 0, 0.863);
+}
+i{
+  color: #007bff;
+  padding: 10px 0px;
+  font-size:4.5rem;
+}
+p{
+  font-size: 20px;
+}
+h1{
+  font-size: 28px;
+}
+h2{
+  font-size: 20px;
+}
+h3{
+  font-size: 38px;
+}
+img{
+  box-shadow:rgb(173, 181, 189) 0px 5px 5px 0px;
+}
+#footer{
+  padding: 50px;
+}
+#footer i{
+  font-size: 32px;
+}
